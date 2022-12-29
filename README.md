@@ -3,7 +3,9 @@
  In this project, I have used various natural language processing techniques and machine learning algorithms to classify fake news articles using python.
 
 Task Name: Fake News Detection
+
 Programming Language: Python
+
 IDE: Jupyter NoteBook
 
 STEPS:-
